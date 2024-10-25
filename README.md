@@ -8,4 +8,5 @@ Welcome to IDreamer's homeland:
 - 💬 Ask me about whatever you want to know
 - 📫 How to reach me: hanshuo_wang@163.com or wanghanshuo1220@gmail.com
 
+![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanghanshuo1220&layout=compact&theme=tokyonight)
